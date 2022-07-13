@@ -15,7 +15,7 @@
 <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Redeembynight&show_icons=true&count_private=true&theme=vue" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redeembynight&layout=compact&hide_border=true&langs_count=10" />
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Redeembynight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Redeembynight" />
 </div>
 
 ![Redeembynight's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redeembynight&layout=compact&hide_border=true&langs_count=10)
