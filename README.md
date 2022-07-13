@@ -7,9 +7,10 @@
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
-<p align="center">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Redeembynight?style=social">
- </p>
+<div align="center">
+  <a href="https://t.me/Marilyncow/"><img src="https://img.shields.io/badge/Telegram-Channel-blue"></a>&emsp;
+   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Redeembynight?style=social">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Redeembynight" alt="访客统计" /></div>
 
 <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Redeembynight&show_icons=true&count_private=true&theme=vue" />
