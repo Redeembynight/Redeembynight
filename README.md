@@ -3,7 +3,7 @@
 <br>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Redeembynight/Redeembynight/output/github-contribution-grid-snake.svg" /></div>
 
 <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Redeembynight&show_icons=true&count_private=true&theme=vue" />
