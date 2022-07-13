@@ -1,11 +1,11 @@
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://raw.githubusercontent.com/Redeembynight/Redeembynight/output/github-contribution-grid-snake.svg" /></div>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Foundation&size=25&color=D38324&center=true&vCenter=true&width=420&lines=Nobody+grows+old+merely+by+a+number+of+years." alt="typing-svg">
 </p>
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://raw.githubusercontent.com/Redeembynight/Redeembynight/output/github-contribution-grid-snake.svg" /></div>
 <div align="center">
   <a href="https://t.me/Marilyncow/"><img src="https://img.shields.io/badge/Telegram-Channel-blue"></a>&emsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=Redeembynight" alt="访客统计" />
