@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Foundation&color=D38324&center=true&vCenter=true&lines=Nobody+grows+old+merely+by+a+number+of+years." alt="typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Foundation&size=25&color=D38324&center=true&vCenter=true&width=420&lines=Nobody+grows+old+merely+by+a+number+of+years." alt="typing-svg">
 </p>
 
 <!-- 贪吃蛇代码贡献图 -->
