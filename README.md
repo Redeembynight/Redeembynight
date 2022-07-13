@@ -7,9 +7,9 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/Redeembynight/Redeembynight/output/github-contribution-grid-snake.svg" /></div>
 <div align="center">
-  <a href="https://t.me/Marilyncow/"><img src="https://img.shields.io/badge/Telegram-Channel-blue"></a>&emsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Redeembynight" alt="访客统计" />
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Redeembynight?style=social">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Redeembynight" alt="访客统计" />
+  <a href="https://t.me/Marilyncow/"><img src="https://img.shields.io/badge/Telegram-Channel-blue"></a>&emsp;
 </div>
 
 <div align="center">
