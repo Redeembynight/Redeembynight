@@ -10,7 +10,6 @@
 <p align="center">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Redeembynight?style=social">
  </p>
-[![Telegram](https://img.shields.io/badge/Telegram-Channel)](https://t.me/Marilyncow)
 
 <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Redeembynight&show_icons=true&count_private=true&theme=vue" />
