@@ -19,5 +19,6 @@
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Redeembynight&show_icons=true&count_private=true&theme=vue" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redeembynight&layout=compact&hide_border=true&langs_count=10" />
 </div>
-
-![Metrics](https://metrics.lecoq.io/Redeembynight?template=classic&topics=1&habits=1&traffic=1&starlists=1&stargazers=1&base.indepth=false&base.hireable=false&topics.mode=starred&topics.sort=stars&topics.limit=15&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&stargazers.charts.type=classic&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&config.timezone=Asia%2FShanghai&config.display=large)
+<div align="center">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+</div>
