@@ -13,8 +13,8 @@
   <a href="https://t.me/Marilyncow/"><img src="https://img.shields.io/badge/Telegram-Channel-blue"></a>&emsp;
 </div>
 <div align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Redeembynight&show_icons=true&count_private=true&theme=vue" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redeembynight&show_icons=true&count_private=true&theme=vue" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Redeembynight&show_icons=true&count_private=true&theme=vue" width="500"/>
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redeembynight&show_icons=true&count_private=true&theme=vue" width="500"/>
 </div>
 <div align="center">
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
