@@ -29,7 +29,6 @@ jobs:
           user: Redeembynight
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
           config_timezone: Asia/Shanghai
           plugin_habits: yes
           plugin_habits_charts: yes
@@ -38,15 +37,4 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: classic
-          plugin_starlists: yes
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
           plugin_traffic: yes
