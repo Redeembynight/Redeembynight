@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Foundation&color=F7992A&center=true&vCenter=true&lines=Nobody+grows+old+merely+by+a+number+of+years.)](https://git.io/typing-svg)
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Foundation&color=D38324&center=true&vCenter=true&lines=Nobody+grows+old+merely+by+a+number+of+years." alt="typing-svg">
+</p>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/Redeembynight/Redeembynight/output/github-contribution-grid-snake.svg" /></div>
