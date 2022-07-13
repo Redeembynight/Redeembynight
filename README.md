@@ -8,7 +8,7 @@
     <img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
 </div>
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Redeembynight" />
 </div>
 
 ![Redeembynight's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redeembynight&layout=compact&hide_border=true&langs_count=10)
