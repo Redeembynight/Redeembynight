@@ -9,6 +9,7 @@
 <br>
 <p align="center">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Redeembynight?style=social">
+ </p>
 [![Telegram](https://img.shields.io/badge/Telegram-Channel)](https://t.me/Marilyncow)
 
 <div align="center">
