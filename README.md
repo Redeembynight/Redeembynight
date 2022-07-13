@@ -6,6 +6,7 @@
 <br>
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/Redeembynight/Redeembynight/output/github-contribution-grid-snake.svg" /></div>
+<!-- 徽章 -->
 <div align="center">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Redeembynight?style=social">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Redeembynight" alt="访客统计" />
