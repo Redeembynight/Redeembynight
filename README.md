@@ -14,8 +14,6 @@
 </div>
 <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Redeembynight&show_icons=true&count_private=true&theme=vue" />
-</div>
-<div align="center">
     <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Redeembynight" />
 </div>
 
