@@ -12,12 +12,11 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Redeembynight" alt="访客统计" />
   <a href="https://t.me/Marilyncow/"><img src="https://img.shields.io/badge/Telegram-Channel-blue"></a>&emsp;
 </div>
-
 <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Redeembynight&show_icons=true&count_private=true&theme=vue" />
 </div>
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Redeembynight" />
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Redeembynight" />
 </div>
 
 ![Redeembynight's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redeembynight&layout=compact&hide_border=true&langs_count=10)
