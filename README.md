@@ -5,7 +5,7 @@
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Foundation&size=25&color=D38324&center=true&vCenter=true&width=420&lines=Nobody+grows+old+merely+by+a+number+of+years." alt="typing-svg"></p>
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div align="center" ><img order-radius="200px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <!-- 徽章 -->
 <div align="center">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Redeembynight?style=social">
