@@ -12,10 +12,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Redeembynight" alt="访客统计" />
   <a href="https://t.me/Marilyncow/"><img src="https://img.shields.io/badge/Telegram-Channel-blue"></a>&emsp;
 </div>
-<div align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Redeembynight&hide_title=true&show_icons=trueline_height=21&theme=vue" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redeembynight&hide_title=true&show_icons=trueline_height=21&theme=vue" />
-</div>
+
 <div align="center">
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </div>
